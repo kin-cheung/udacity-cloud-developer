@@ -1,0 +1,3 @@
+[submodule "P2/udagram-api/feed-node"]
+	path = P2/udagram-api/feed-node
+	url = https://github.com/kin-cheung/feed-node.git
