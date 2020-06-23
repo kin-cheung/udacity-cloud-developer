@@ -8,3 +8,6 @@
 	path = P2/udagram-frontend
 	url = https://github.com/kin-cheung/udagram-frontend.git
 
+[submodule "P2/reverse-proxy"]
+	path = P2/reverse-proxy
+	url = https://github.com/kin-cheung/reverse-proxy.git
