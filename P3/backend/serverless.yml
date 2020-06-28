@@ -9,7 +9,7 @@ plugins:
   # - serverless-plugin-canary-deployments
 
 # package:
-#   individually: tru
+#   individually: true
 
 provider:
   name: aws
