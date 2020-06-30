@@ -11,3 +11,6 @@
 [submodule "P2/reverse-proxy"]
 	path = P2/reverse-proxy
 	url = https://github.com/kin-cheung/reverse-proxy.git
+[submodule "P4/client"]
+	path = P4/client
+	url = https://github.com/kin-cheung/todoapp-frontend.git
