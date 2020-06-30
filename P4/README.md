@@ -2,15 +2,17 @@
 
 This is a TODO list application that is used to demonstrate a number of AWS services that were used to build the architecture for this web application.
 
-This application is made of a web frontend and a web backend.
-
 URL: http://d6aq5bif8acpi.cloudfront.net/
 
 ![TODO app](images/todo-app.png)
 
-#### Web frontend
+#### Architectural design
+
+This application has a web frontend and a web backend.
 
 ![todo-app-architecture-design](images/todo-app-architecture-design.png)
+
+#### Web frontend
 
 The web frontend is developed using [ReactJS](https://reactjs.org/) based on the TODO app from the previous project. It is deployed to AWS using [AWS EKS](https://aws.amazon.com/eks/) service. CI pipeline is done by [travis.io](https://travis-ci.org/). It pulls latest source code form [Github](https://github.com/) and build a docker image before pushing it to [DockerHub](https://hub.docker.com/) to be ready for deployment, 
  
