@@ -2,9 +2,7 @@
 
 This is a TODO list application that is used to demonstrate a number of AWS services that were used to build the architecture for this web application.
 
-This application is made of two components.
-1. A web frontend
-2. A web backend
+This application is made of a web frontend and a web backend.
 
 #### Web frontend
 
