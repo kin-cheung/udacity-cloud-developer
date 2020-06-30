@@ -12,7 +12,7 @@ URL: http://d6aq5bif8acpi.cloudfront.net/
 
 #### Architectural design
 
-This application has a web frontend deployed between CloudFront in a cluster group and a web backend that is made up of multiple serverless functions.
+This application has a web frontend deployed behind CloudFront in a cluster group and a web backend that is made up of multiple serverless functions.
 
 ![todo-app-architecture-design](images/todo-app-architecture-design.png)
 
