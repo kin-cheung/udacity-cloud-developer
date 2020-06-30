@@ -10,7 +10,7 @@ The web frontend is developed using [ReactJS](https://reactjs.org/). It is deplo
 
 URL: http://d6aq5bif8acpi.cloudfront.net/
 
-![TODO app](/images/todo-app.png)
+![TODO app](images/todo-app.png)
 
 #### Web backend
 
@@ -18,7 +18,7 @@ The web backend is made up of a number of serverless functions using [AWS Lambda
 
 
 ##### travis-ci
-![travis-ci](/images/travis-ci.png)
+![travis-ci](images/travis-ci.png)
 
 ##### DockerHub
-![docker-hub](/images/docker-hub.png)
+![docker-hub](images/docker-hub.png)
