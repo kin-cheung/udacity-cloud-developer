@@ -1,3 +1,7 @@
+## Capstone project 
+
+I reused the TODO app from the previous project and deployed the frontend to AWS using EKS together with travis.ci, github and dockerhub. The serverless functions for the backend also remained the same but I completely automated the CI/CD pipeline so that the serverless functions are automatically deployed to AWS when latest source is pushed to github using travis.ci.
+
 ### TODO application
 
 This is a TODO list application that is used to demonstrate a number of AWS services that were used to build the architecture for this web application.
