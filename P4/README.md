@@ -6,7 +6,7 @@ This application is made of a web frontend and a web backend.
 
 #### Web frontend
 
-The web frontend is developed using [ReactJS](https://reactjs.org/). It is deployed to AWS using [AWS KMS](https://aws.amazon.com/kms/) service. CI pipeline is done by [travis.io](https://travis-ci.org/). It pulls latest source code form [Github](https://github.com/) and build a docker images before pushing it to [DockerHub](https://hub.docker.com/) to be ready for deployment, 
+The web frontend is developed using [ReactJS](https://reactjs.org/). It is deployed to AWS using [AWS KMS](https://aws.amazon.com/kms/) service. CI pipeline is done by [travis.io](https://travis-ci.org/). It pulls latest source code form [Github](https://github.com/) and build a docker image before pushing it to [DockerHub](https://hub.docker.com/) to be ready for deployment, 
 
 URL: http://d6aq5bif8acpi.cloudfront.net/
 
