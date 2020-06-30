@@ -14,3 +14,6 @@
 [submodule "P4/client"]
 	path = P4/client
 	url = https://github.com/kin-cheung/todoapp-frontend.git
+[submodule "P4/backend"]
+	path = P4/backend
+	url = https://github.com/kin-cheung/todoapp-backend.git
